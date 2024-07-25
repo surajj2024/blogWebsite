@@ -15,7 +15,7 @@ This is a RESTful API for a blogging platform. The API allows users to register,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/blogging-api.git
+   https://github.com/surajj2024/blogWebsite.git
    cd blogging-api
 Install the dependencies:
 
